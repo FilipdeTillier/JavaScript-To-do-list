@@ -1,0 +1,60 @@
+body {
+    background-color: #81DAC5;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+#box {
+    border: solid 5px white;
+    border-radius: 10px;
+    background-color: black;
+    padding: 10px;
+    opacity: 0.8;
+    text-align: center;
+    color: white;
+    min-height: 200px;
+}
+
+.middle {
+    padding: 10.6666666666666666%;
+    text-align: center;
+}
+
+#txt {
+    color: black;
+    margin-bottom: 10px;
+}
+
+#time {
+    color: black;
+    margin-bottom: 10px;
+}
+
+#mylist {
+    text-align: left;
+    overflow: scroll;
+    max-height: 200px;
+}
+
+.logo {
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+    padding-bottom: 5%;
+}
+
+.goal {
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+}
+
+#What {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+.scrolling {
+    max-height: 200px;
+    overflow-y: auto;
+}
